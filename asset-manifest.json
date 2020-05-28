@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sparethme/keeperapp.git/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/sparethme/keeperapp.git/static/js/main.c4d911d1.chunk.js",
+    "main.js.map": "/sparethme/keeperapp.git/static/js/main.c4d911d1.chunk.js.map",
+    "runtime-main.js": "/sparethme/keeperapp.git/static/js/runtime-main.c581a72c.js",
+    "runtime-main.js.map": "/sparethme/keeperapp.git/static/js/runtime-main.c581a72c.js.map",
+    "static/js/2.b45fe1ec.chunk.js": "/sparethme/keeperapp.git/static/js/2.b45fe1ec.chunk.js",
+    "static/js/2.b45fe1ec.chunk.js.map": "/sparethme/keeperapp.git/static/js/2.b45fe1ec.chunk.js.map",
+    "index.html": "/sparethme/keeperapp.git/index.html",
+    "precache-manifest.f4af03f32152e831dcbdf9ef9eca5e32.js": "/sparethme/keeperapp.git/precache-manifest.f4af03f32152e831dcbdf9ef9eca5e32.js",
+    "service-worker.js": "/sparethme/keeperapp.git/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/sparethme/keeperapp.git/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.b45fe1ec.chunk.js.LICENSE.txt": "/sparethme/keeperapp.git/static/js/2.b45fe1ec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c581a72c.js",
+    "static/js/2.b45fe1ec.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.c4d911d1.chunk.js"
+  ]
+}
